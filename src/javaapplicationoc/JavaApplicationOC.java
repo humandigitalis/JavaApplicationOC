@@ -6,7 +6,7 @@
 package javaapplicationoc;
 
 /**
- * @author claudebueno
+ * @author humandigitalis
  */
 public class JavaApplicationOC {
 
