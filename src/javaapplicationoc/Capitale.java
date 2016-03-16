@@ -6,6 +6,7 @@
 package javaapplicationoc;
 
 /**
+ * 
  * @author humandigitalis
  */
 public class Capitale extends Ville {
