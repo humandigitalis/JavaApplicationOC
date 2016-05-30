@@ -35,7 +35,8 @@ public class Ville {
   }  
     
   //Retourne le nom de la ville
-  public String getNom()  {  
+  public String getNom()  
+  {  
     return nomVille;
   }
 
